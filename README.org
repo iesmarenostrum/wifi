@@ -1,0 +1,34 @@
+* Configuración red WiFi IES Mare Nostrum
+** Descarga del certificado
+
+En primer lugar, debe descargar el fichero [[./ca.pem]]
+
+** Configuración de la red WiFi
+
+A continuación se muestran los parámetros de la red WiFi:
+
+[[./configuracion_wifi.png]]
+
+** Configuración de la red WiFi: dispositivos que no conectan (necesitan certificado)
+
+En el apartado de ~Certificado AC~ se seleccionará la opción ~Instalar certificados~:
+
+[[./01.png]]
+
+A continuación se seleccionará el fichero ~ca.pem~ previamente descargado:
+
+[[./02.png]]
+
+Seguidamente, se le dará un nombre a dicho certificado (por ejemplo, ~wifi_marenostrum~):
+
+[[./03.jpeg]]
+
+Volvemos a pulsar en ~Certificado AC~ y seleccionamos la nueva opción que aparece, ~wifi marenostrum~:
+
+[[./04.jpeg]]
+
+Por último, en el apartado ~Dominio~ se deberá indicar ~wifimarenostrum.com~. Los parámetros deben quedar de la siguiente manera:
+
+[[./05.png]]
+
+El nombre de usuario y contraseña de la cuenta ~@alu.edu.gva.es~ deben indicarse en los apartados ~Identidad~ y ~Contraseña~.
