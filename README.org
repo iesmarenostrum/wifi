@@ -8,7 +8,7 @@ A continuación se muestran los parámetros de la red WiFi:
 
 ** Configuración de la red WiFi: dispositivos que no conectan (necesitan certificado)
 
-En primer lugar, se debe descargar el siguiente fichero: [[https://raw.githubusercontent.com/iesmarenostrum/wifi/main/ca.pem][fichero de certificado WiFi]].
+En primer lugar, se debe descargar el siguiente fichero: [[https://github.com/iesmarenostrum/wifi/releases/download/v1.0/ca.pem][fichero de certificado WiFi]].
 
 En el apartado de ~Certificado AC~ se seleccionará la opción ~Instalar certificados~:
 
